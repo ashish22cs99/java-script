@@ -37,4 +37,8 @@ console.log(typeof isnum);
  
 console.log(typeof null);
 
-console.log(typeof" hello");
+console.log(typeof "hello");
+console.log(typeof 100);
+console.log(typeof true);
+console.log(typeof undefined);
+console.log(typeof null);
