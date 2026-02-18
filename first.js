@@ -36,3 +36,5 @@ console.log(typeof isnum);
 // type of null
  
 console.log(typeof null);
+
+console.log(typeof" hello");
